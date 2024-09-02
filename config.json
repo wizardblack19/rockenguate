@@ -6,11 +6,11 @@
       "radio_url": "https://gtdesarrollo.net/listen/rockenguate_radio/radio.mp3",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
       "background_image_url": "https://raw.githubusercontent.com/wizardblack19/rockenguate/main/fondorg.webp",
-	  "blur_radio_background": "false",
+	  "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
 	  "image_album_art_dynamic_background": "true",
-	  "auto_play": "false"
+	  "auto_play": "true"
     }
   ],
   "settings": [
