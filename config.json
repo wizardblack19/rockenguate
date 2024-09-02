@@ -1,11 +1,11 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
+      "radio_name": "RockenGuate Radio",
+      "radio_genre": "Rock",
       "radio_url": "http://86.107.235.38:9000/smartnroll",
       "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
-      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
+      "background_image_url": "https://raw.githubusercontent.com/wizardblack19/rockenguate/main/fondorg.webp",
 	  "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
